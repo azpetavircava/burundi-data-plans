@@ -71,3 +71,10 @@ layout: default
 
 　　希望这份指南能帮你打消对布隆迪网络的疑虑。总的来说，在那里保持联系没那么难，只要提前做点功课，过程中多点耐心就好。祝你的2025布隆迪之旅一切顺利！
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Burundi SIM 卡购买与激活指南](https://faciylike.github.io/burundi-sim-guides)
